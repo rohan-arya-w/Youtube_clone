@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "youtubeclone"
+    }
+  },
+  "defaultProject": "youtubeclone",
+  "cli": {
+    "analytics": "1e5e86cf-6bc0-413b-8e6a-87348d5a1288"
+  }
 }
